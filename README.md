@@ -21,7 +21,6 @@ python-dotenv
 
 ```
 git clone https://github.com/LucasdeOliveira03/Discord-Clicker.git
-cd discord-clicker-bot
 ```
 
 **Install dependencies:**
@@ -33,7 +32,7 @@ pip install -r requirements.txt
 **Create a `.env` file** with the bot token:
 
 ```
-TOKEN=iscord_bot_token
+TOKEN=Discord_bot_token
 ```
 
 **Run the bot:**
