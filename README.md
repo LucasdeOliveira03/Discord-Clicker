@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-%233776AB) ![discord.py](https://img.shields.io/badge/discord.py-5865F2) ![SQLite](https://img.shields.io/badge/database-SQLite-003B57)
 
-A clicker game for discord servers. Players click a button, compete on a leaderboard, and maybe get get blessed. The game data is saved to a local SQLite database.
+A clicker game for discord servers. Players click a button, compete on a leaderboard, and maybe get blessed. The game data is saved to a local SQLite database.
 
 ---
 
